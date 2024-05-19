@@ -1,1 +1,1 @@
-# FlipCoinGame_JavaScript
+# Flip Coin Game
